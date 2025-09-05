@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,o as n}from"./index-1_kKyBp9.js";const r={};function a(c,e,l,p,_,d){return n(),t("div",null,e[0]||(e[0]=[s("h1",null,"Home",-1)]))}const m=o(r,[["render",a]]);export{m as default};
